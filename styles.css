@@ -2,4 +2,5 @@ body{font-family:calibri; margin-left:150px; margin-right:150px}
 h1{color:#010654; font-size:32px; font-weight:bold}
 h2{color:#000666; font-size:24px; font-weight:bold}
 h3{color:#000666; font-size:18px; font-weight:bold; font-style:italic}
-p{font-size:16px}
+p{font-size:16px;}
+.answer{color:#000666; font-size:18px; font-weight:bold; font-style:italic}
